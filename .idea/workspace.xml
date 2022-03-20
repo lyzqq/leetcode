@@ -34,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -193,7 +194,7 @@
       <workItem from="1646013452107" duration="36677000" />
       <workItem from="1646270612728" duration="90615000" />
       <workItem from="1647391315238" duration="5918000" />
-      <workItem from="1647575633319" duration="27038000" />
+      <workItem from="1647575633319" duration="27390000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题记录">
       <created>1647783973047</created>
@@ -202,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647783973047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leetcode刷题记录">
+      <created>1647784964367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647784964367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="leetcode刷题记录">
+      <created>1647785135781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647785135781</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
