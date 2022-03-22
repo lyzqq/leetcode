@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t2038/T2038.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,13 +65,13 @@
       <recent name="t2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T653">
-    <configuration name="T2039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2039.T2039" />
+  <component name="RunManager" selected="Application.T2038">
+    <configuration name="T2038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t2038.T2038" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t2039.*" />
+          <option name="PATTERN" value="t2038.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T2038" />
         <item itemvalue="Application.T653" />
         <item itemvalue="Application.T4" />
         <item itemvalue="Application.T46" />
         <item itemvalue="Application.T3" />
-        <item itemvalue="Application.T2039" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,7 @@
       <workItem from="1646270612728" duration="90615000" />
       <workItem from="1647391315238" duration="5918000" />
       <workItem from="1647575633319" duration="27390000" />
-      <workItem from="1647793899827" duration="1952000" />
+      <workItem from="1647793899827" duration="5696000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题记录">
       <created>1647783973047</created>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647785135781</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leetcode刷题记录">
+      <created>1647916911755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647916911755</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,14 +475,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="3" language="JAVA" />
-        <watch expression="1" language="JAVA" />
-        <watch expression="3" language="JAVA" />
-        <watch expression="10" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
