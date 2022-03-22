@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de2109f5-fa23-45ca-83b3-f108c9fcad0c" name="Default Changelist" comment="" />
+    <list default="true" id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T653.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="F:/apache-maven-3.8.4" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.4" />
         <option name="userSettingsFile" value="F:\apache-maven-3.8.4\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -62,7 +65,7 @@
       <recent name="t2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T4">
+  <component name="RunManager" selected="Application.T653">
     <configuration name="T2039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="t2039.T2039" />
       <module name="leetcode" />
@@ -115,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blue4.T5" />
+    <configuration name="T653" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T653" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="blue4.*" />
+          <option name="PATTERN" value="jianzioffer1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,26 +131,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T653" />
         <item itemvalue="Application.T4" />
         <item itemvalue="Application.T46" />
         <item itemvalue="Application.T3" />
         <item itemvalue="Application.T2039" />
-        <item itemvalue="Application.T5" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de2109f5-fa23-45ca-83b3-f108c9fcad0c" name="Default Changelist" comment="" />
+      <changelist id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="" />
       <created>1634260099825</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -195,6 +196,7 @@
       <workItem from="1646270612728" duration="90615000" />
       <workItem from="1647391315238" duration="5918000" />
       <workItem from="1647575633319" duration="27390000" />
+      <workItem from="1647793899827" duration="1952000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题记录">
       <created>1647783973047</created>
@@ -441,7 +443,7 @@
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>jar://F:/jdk1.8.0_131/jre/lib/ext/zipfs.jar!/com/sun/nio/zipfs/ZipPath.class</url>
+          <url>jar://$PROJECT_DIR$/../../jdk1.8.0_131/jre/lib/ext/zipfs.jar!/com/sun/nio/zipfs/ZipPath.class</url>
           <line>61</line>
           <properties class="com.sun.nio.zipfs.ZipPath" method="normalize">
             <option name="EMULATED" value="true" />
