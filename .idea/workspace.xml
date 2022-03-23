@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/t2038/T2038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t2038/T2038.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t2038/T2038.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blue4.T3" />
+    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blue4.T4" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blue4.T4" />
+    <configuration name="T42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T42" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="blue4.*" />
+          <option name="PATTERN" value="jianzioffer1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,10 +146,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.T2038" />
+        <item itemvalue="Application.T42" />
         <item itemvalue="Application.T653" />
         <item itemvalue="Application.T4" />
         <item itemvalue="Application.T46" />
-        <item itemvalue="Application.T3" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +197,7 @@
       <workItem from="1646270612728" duration="90615000" />
       <workItem from="1647391315238" duration="5918000" />
       <workItem from="1647575633319" duration="27390000" />
-      <workItem from="1647793899827" duration="5696000" />
+      <workItem from="1647793899827" duration="7389000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题记录">
       <created>1647783973047</created>
@@ -226,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647916911755</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="leetcode刷题记录">
+      <created>1647958062852</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647958062852</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

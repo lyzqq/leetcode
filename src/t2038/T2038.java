@@ -50,31 +50,42 @@ package t2038;
  * 所以 Bob 获胜，返回 false 。
  */
 public class T2038 {
-    public boolean winnerOfGame(String colors) {
-        int countA = 0, countB = 0;
-        countA = count(colors, 'A');
-        countB = count(colors, 'B');
-        return countA > countB;
-    }
 
-    private int count(String colors, char a) {
-        int temp = 0, count = 0;
-        for (int i = 0; i < colors.length() - 1; i++) {
-            if (colors.charAt(i) == a) {
-                temp++;
-            } else {
-                if (temp >= 3) {
-                    count += (temp - 2);
-                }
-                temp = 0;
+    public boolean winnerOfGame(String colors) {
+            char[] cs = colors.toCharArray();
+            int n = cs.length;
+            int countA = 0, countB = 0;
+            for (int i = 1; i < n - 1; i++) {
+                if (cs[i - 1] == 'A' && cs[i] == 'A' && cs[i + 1] == 'A') countA++;
+                if (cs[i - 1] == 'B' && cs[i] == 'B' && cs[i + 1] == 'B') countB++;
             }
-        }
-        if (colors.charAt(colors.length() - 1) == a) {
-            temp++;
-        }
-        if (temp >= 3) count += temp - 2;
-        return count;
+            return countA > countB;
     }
+//    public boolean winnerOfGame(String colors) {
+//        int countA = 0, countB = 0;
+//        countA = count(colors, 'A');
+//        countB = count(colors, 'B');
+//        return countA > countB;
+//    }
+//
+//    private int count(String colors, char a) {
+//        int temp = 0, count = 0;
+//        for (int i = 0; i < colors.length() - 1; i++) {
+//            if (colors.charAt(i) == a) {
+//                temp++;
+//            } else {
+//                if (temp >= 3) {
+//                    count += (temp - 2);
+//                }
+//                temp = 0;
+//            }
+//        }
+//        if (colors.charAt(colors.length() - 1) == a) {
+//            temp++;
+//        }
+//        if (temp >= 3) count += temp - 2;
+//        return count;
+//    }
 
     public static void main(String[] args) {
         T2038 t2038 = new T2038();
