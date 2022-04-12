@@ -15,21 +15,21 @@ package t42;
  */
 public class T42 {
     public int trap(int[] height) {
-        int ans = 0;
-        int left = 0, right = height.length - 1;
+        int water = 0;
         int leftMax = 0, rightMax = 0;
+        int left = 0, right = height.length - 1;
         while (left < right) {
             leftMax = Math.max(height[left], leftMax);
             rightMax = Math.max(height[right], rightMax);
-            if (height[left] < height[right]) {
-                ans += leftMax - height[left];
+            if (leftMax < rightMax) {
+                water += leftMax - height[left];
                 left++;
             } else {
-                ans += rightMax - height[right];
+                water += rightMax - height[right];
                 right--;
             }
         }
-        return ans;
+        return water;
     }
 
     public static void main(String[] args) {

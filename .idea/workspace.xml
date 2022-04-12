@@ -1,11 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t440/T440.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t661/T661.java" afterDir="false" />
+    <list default="true" id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="leetcode刷题记录">
+      <change afterPath="$PROJECT_DIR$/src/aXiaomi/exist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ali/lastRemain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ameituan/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blue6/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jd/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jd/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T53One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T53Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lru/LRUBaseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/priorityQueue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t124/T124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t124/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t172/T172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t2028/T2028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t23/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t23/T23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t25/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t25/T25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t32/T32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t357/T357.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t41/T41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t429/T429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t693/T693.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t728/T728.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t744/T744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t796/T796.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t803/T803.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t804/T804.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/t33/T33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/t33/T33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/t42/T42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/t42/T42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t33/T33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t33/T33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t42/T42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t42/T42.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +76,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -42,7 +104,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/aZiJieHard" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,37 +114,26 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\leetcode\src\aZiJieHard" />
       <recent name="D:\IdeaProjects\leetcode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aZiJieHard" />
+      <recent name="t124" />
+      <recent name="t23" />
+      <recent name="t25" />
       <recent name="jianzioffer1" />
-      <recent name="jianzioffer" />
-      <recent name="t57" />
-      <recent name="t79" />
-      <recent name="t2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T661">
-    <configuration name="T2038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2038.T2038" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="t2038.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T44" />
+  <component name="RunManager" selected="Application.T54">
+    <configuration name="T50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T50" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T440" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t440.T440" />
+    <configuration name="T52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T52" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t440.*" />
+          <option name="PATTERN" value="jianzioffer1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T661" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t661.T661" />
+    <configuration name="T53One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T53One" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t661.*" />
+          <option name="PATTERN" value="jianzioffer1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blue.t1" />
+    <configuration name="T53Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T53Two" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="blue.*" />
+          <option name="PATTERN" value="jianzioffer1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,26 +184,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="T54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T54" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jianzioffer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T661" />
-        <item itemvalue="Application.t1" />
-        <item itemvalue="Application.T440" />
-        <item itemvalue="Application.T44" />
-        <item itemvalue="Application.T2038" />
+        <item itemvalue="Application.T54" />
+        <item itemvalue="Application.T53Two" />
+        <item itemvalue="Application.T53One" />
+        <item itemvalue="Application.T52" />
+        <item itemvalue="Application.T50" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +263,8 @@
       <workItem from="1647391315238" duration="5918000" />
       <workItem from="1647575633319" duration="27390000" />
       <workItem from="1647793899827" duration="13513000" />
-      <workItem from="1648012419824" duration="2758000" />
+      <workItem from="1648012419824" duration="104578000" />
+      <workItem from="1649491291174" duration="53725000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题记录">
       <created>1647783973047</created>
@@ -245,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647997350278</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="leetcode刷题记录">
+      <created>1648128868530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648128868530</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,10 +538,100 @@
           <line>37</line>
           <option name="timeStamp" value="136" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/blue5/T2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/blue5/T3.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/MergeSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ali/lastRemain.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ali/lastRemain.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bluePractice/T1005.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bluePractice/T1007.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bluePractice/T1010.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t23/T23.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t23/T23.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ameituan/T3.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t804/T804.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t804/T804.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t42/T42.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/awz/TT2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aZiJieHard/T72.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T52.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T53Two.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/../../jdk1.8.0_131/jre/lib/ext/zipfs.jar!/com/sun/nio/zipfs/ZipPath.class</url>
           <line>61</line>
-          <properties class="com.sun.nio.zipfs.ZipPath" method="normalize">
+          <properties class="com.sun.nio.zipfs.ZipPath">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="49" />
@@ -492,6 +652,10 @@
           </properties>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="151" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

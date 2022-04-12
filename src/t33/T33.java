@@ -68,8 +68,9 @@ public class T33 {
 
     public static void main(String[] args) {
         T33 t33 = new T33();
-        int[] nums = {4, 5, 6, 7, 0, 1, 2};
-        int target = 0;
+//        int[] nums = {4, 5, 6, 7, 0, 1, 2};
+        int[] nums = {1,3};
+        int target = 3;
         System.out.println(t33.search(nums, target));
     }
 }
