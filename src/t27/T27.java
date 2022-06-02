@@ -1,5 +1,7 @@
 package t27;
 
+import java.util.Arrays;
+
 /**
  * @author 刘勇志
  * @version 1.0
@@ -20,21 +22,29 @@ package t27;
  */
 public class T27 {
     public int removeElement(int[] nums, int val) {
-        int left = 0, right = nums.length;
-        while (left < right) {
-            if (nums[left] == val) {
-                nums[left] = nums[right - 1];
-                right--;
-            } else {
-                left++;
+        int j = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != val) {
+                nums[j++] = nums[i];
             }
         }
-        return left;
+        return j;
+//        int left = 0, right = nums.length;
+//        while (left < right) {
+//            if (nums[left] == val) {
+//                nums[left] = nums[right - 1];
+//                right--;
+//            } else {
+//                left++;
+//            }
+//        }
+//        return left;
     }
 
     public static void main(String[] args) {
         T27 t27 = new T27();
-        int[] num = {2, 3, 2, 4, 5, 6, 7};
-        System.out.println(t27.removeElement(num, 2));
+        int[] nums = {2, 3, 2, 4, 5, 6, 7};
+        System.out.println(t27.removeElement(nums, 2));
+        System.out.println(Arrays.toString(nums));
     }
 }

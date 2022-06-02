@@ -1,72 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="leetcode刷题记录">
-      <change afterPath="$PROJECT_DIR$/src/aXiaomi/exist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ali/lastRemain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ameituan/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blue6/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bluePractice/T1018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jd/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jd/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T53One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T53Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lru/LRUBaseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/priorityQueue/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t124/T124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t124/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t172/T172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2028/T2028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t23/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t23/T23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t25/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t25/T25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t32/T32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t357/T357.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t41/T41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t429/T429.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t693/T693.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t728/T728.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t744/T744.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t796/T796.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t803/T803.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t804/T804.java" afterDir="false" />
+    <list default="true" id="a2de3800-5341-4e64-a1ad-3e16bea5878c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/abstractFactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/abstractFactory/DefaultFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/abstractFactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/decorator/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/decorator/Cream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/decorator/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/decorator/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/decorator/Vegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/factory/Benz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/factory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/factory/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/factory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/matches/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/matches/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/matches/VoltageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/observer/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/observer/Li.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/observer/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/observer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aDesignPatterns/observer/Wang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aString/aString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aString/aStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aWeeklyCompetition/first/T6083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aWeeklyCompetition/first/T6084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aWeeklyCompetition/first/T6085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aWeeklyCompetition/two/T6078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aWeeklyCompetition/two/T6079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aWeeklyCompetition/two/T6080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/four/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/one/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/one/ProducerConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/one/ProducerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/one/PublicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/one/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/three/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/three/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/three/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/three/PublicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/three/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/two/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/two/ProducerConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/two/ProducerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/two/PublicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ajuc/two/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atx/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atx/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atx/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atx/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atx1/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atx1/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/awz2/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareTo/StringSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareTo/compareToDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d1stack/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d1stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d2queue/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d2queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d2queue/QueueQP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d2queue/QueueQT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d3linkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d4HashMap/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d4HashMap/MyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructure/d4HashMap/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T55One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T55Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T56One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T56Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T57Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T58One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T58Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T59One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jianzioffer1/T67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/T9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/TreeLinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowCoder/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1021/T1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t128/T128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t130/T130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t130/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1305/T1305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1305/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t131/T131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1672/T1672.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1823/T1823.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t215/T215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t24/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t24/T24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t386/T386.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t388/T388.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t396/T396.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t398/T398.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t417/T417.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t433/T433.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t442/T442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t468/T468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t479/T479.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t591/T591.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t713/T713.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t819/T819.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t821/T821.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t824/T824.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t868/T868.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t883/T883.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t905/T905.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t908/T908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t937/T937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t942/T942.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t944/T944.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t974/T974.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/t33/T33.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/t33/T33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/t42/T42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/t42/T42.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t33/T33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t33/T33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t42/T42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t42/T42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/t27/T27.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/t27/T27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t27/T27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t27/T27.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +151,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -104,40 +179,47 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/aZiJieHard" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ajuc/two" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="aDesignPatterns.abstractFactory" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\leetcode\src\ajuc\two" />
       <recent name="F:\IdeaProjects\leetcode\src\aZiJieHard" />
       <recent name="D:\IdeaProjects\leetcode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="aZiJieHard" />
-      <recent name="t124" />
-      <recent name="t23" />
-      <recent name="t25" />
-      <recent name="jianzioffer1" />
+      <recent name="aDesignPatterns.decorator" />
+      <recent name="ahk" />
+      <recent name="t1305" />
+      <recent name="nowCoder" />
+      <recent name="awz2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T54">
-    <configuration name="T50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T50" />
+  <component name="RunManager" selected="Application.T468">
+    <configuration name="T468" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t468.T468" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzioffer1.*" />
+          <option name="PATTERN" value="t468.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T52" />
+    <configuration name="T6078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aWeeklyCompetition.two.T6078" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzioffer1.*" />
+          <option name="PATTERN" value="aWeeklyCompetition.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T53One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T53One" />
+    <configuration name="T6079" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aWeeklyCompetition.two.T6079" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzioffer1.*" />
+          <option name="PATTERN" value="aWeeklyCompetition.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T53Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T53Two" />
+    <configuration name="T6080" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aWeeklyCompetition.two.T6080" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzioffer1.*" />
+          <option name="PATTERN" value="aWeeklyCompetition.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,37 +266,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jianzioffer1.T54" />
+    <configuration name="T6085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aWeeklyCompetition.first.T6085" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jianzioffer1.*" />
+          <option name="PATTERN" value="aWeeklyCompetition.first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T54" />
-        <item itemvalue="Application.T53Two" />
-        <item itemvalue="Application.T53One" />
-        <item itemvalue="Application.T52" />
-        <item itemvalue="Application.T50" />
+        <item itemvalue="Application.T468" />
+        <item itemvalue="Application.T6080" />
+        <item itemvalue="Application.T6079" />
+        <item itemvalue="Application.T6078" />
+        <item itemvalue="Application.T6085" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +335,17 @@
       <workItem from="1647575633319" duration="27390000" />
       <workItem from="1647793899827" duration="13513000" />
       <workItem from="1648012419824" duration="104578000" />
-      <workItem from="1649491291174" duration="53725000" />
+      <workItem from="1649491291174" duration="63002000" />
+      <workItem from="1649921169606" duration="18000" />
+      <workItem from="1649921197986" duration="63763000" />
+      <workItem from="1650483220624" duration="81181000" />
+      <workItem from="1651671338963" duration="6232000" />
+      <workItem from="1651973068916" duration="16432000" />
+      <workItem from="1652318728332" duration="42000" />
+      <workItem from="1652318780267" duration="1965000" />
+      <workItem from="1653359111145" duration="20968000" />
+      <workItem from="1654002466755" duration="692000" />
+      <workItem from="1654133981717" duration="527000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode刷题记录">
       <created>1647783973047</created>
@@ -315,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648128868530</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="leetcode刷题记录">
+      <created>1649769231257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649769231257</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,6 +716,251 @@
           <line>19</line>
           <option name="timeStamp" value="213" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T55One.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T56Two.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Md5Sum.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T57.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T58One.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T59One.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T59One.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T60.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T60.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T60.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T65.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jianzioffer1/T66.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/azijie/T2.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t974/T974.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t386/T386.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t215/T215.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/QuickSort.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t821/T821.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t388/T388.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t388/T388.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t388/T388.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atx/T1.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t128/T128.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dataStructure/d2queue/QueueQP.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t868/T868.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowCoder/T3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atx2/T5.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atx2/T2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atx2/T11.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atx2/T1.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atx2/T1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowCoder/T10.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t883/T883.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowCoder/T12.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowCoder/T15.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t905/T905.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowCoder/T18.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t1305/T1305.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t1305/T1305.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t433/T433.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t944/T944.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t1021/T1021.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aWeeklyCompetition/first/T6084.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aWeeklyCompetition/first/T6084.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aWeeklyCompetition/first/T6085.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aWeeklyCompetition/two/T6078.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aWeeklyCompetition/two/T6079.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aWeeklyCompetition/two/T6080.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t468/T468.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/../../jdk1.8.0_131/jre/lib/ext/zipfs.jar!/com/sun/nio/zipfs/ZipPath.class</url>
           <line>61</line>
@@ -655,6 +988,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="151" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="277" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
